@@ -1,5 +1,5 @@
 # robtic_arm_YOLACT_Arduino_Depth_camera
-code for an 3D printed Autonomous Robotic Arm (eezybotarm-mk2-software) with image processing (Yolact), Depth camera (Intel d435) &amp; Arduino
+code for a 3D printed Autonomous Robotic Arm (eezybotarm-mk2-software) with image processing (Yolact), Depth camera (Intel d435) &amp; Arduino
 
 
 YouTube video:
