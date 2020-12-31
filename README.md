@@ -1,5 +1,5 @@
 # robtic_arm(EEZYbotARM MK2)_YOLACT_Arduino_Depth_camera_autonomous_picking
-code for a 3D printed Autonomous Robotic Arm (eezybotarm-mk2-software) with image processing (Yolact), Depth camera (Intel d435) &amp; Arduino
+code for a 3D printed Autonomous Robotic Arm (eezybotarm-mk2-software) with image processing (Yolact), Depth camera (Intel d435) &amp; Arduino. The Robotic arm can identify objects using YOLACT & locate them using the depth camera. then the code calc the inverse kinematics to pick the object
 
 
 YouTube video:
